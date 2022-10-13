@@ -37,7 +37,40 @@ export const TopFold = () => {
           </div>
         </div>
       </div>
-      <div className="tf-right"></div>
+      <div className="tf-right">
+        <div className="tf-r-bg-blob"></div>
+        <div className="tf-right-diamond">
+          <div className="tf-r-diamond-item absolute-center">
+            <img
+              className="tf-r-diamond-img"
+              alt="diamond-banner"
+              src="https://i.seadn.io/gae/ZnOR66ksHXCRZEDwPjWosxeTDhs8k650egL6DARINjsW0VL8G9f4g-U0Hk0spLK5gjB7u86_HIuH1CH98kZ9d_47iKLva75tTOYxYw?auto=format&w=128"
+            />
+          </div>
+          <div className="tf-r-diamond-item absolute-center">
+            <img
+              className="tf-r-diamond-img"
+              alt="diamond-banner"
+              src="https://i.seadn.io/gcs/files/543630193cf32ac09c0356e767d2891e.gif?auto=format&w=128"
+            />
+          </div>
+          <div className="tf-r-diamond-item absolute-center">
+            <img
+              className="tf-r-diamond-img"
+              alt="diamond-banner"
+              src="https://i.seadn.io/gcs/files/9f8113bbed895f5c8a946cd7305a50fc.gif?auto=format&w=128"
+            />
+          </div>
+          <div className="tf-r-diamond-item absolute-center">
+            <img
+              className="tf-r-diamond-img"
+              alt="diamond-banner"
+              src="https://i.seadn.io/gae/XvTMloYdyEv8jP17LB2_Ik_8ojbn8Of0fEr6j2fUjvqD3EtXVjqZ5szAoHmeYOQqccLaifqt4hcmcDS1S9gu7hMmw6Ad5asMUd1f?auto=format&w=128"
+            />
+          </div>
+
+        </div>
+      </div>
     </div>
   );
 };
